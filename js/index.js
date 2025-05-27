@@ -13,15 +13,15 @@ var qoutes = [
       '"In three words I can sum up everything I\'ve learned about life: it goes on."',
   },
   {
-    author: "--Elbert Hubbard",
+    author: "― Elbert Hubbard",
     quote: '"Do not take life too seriously. You will not get out alive."',
   },
   {
-    author: "--Wayne Gretzy",
+    author: "― Wayne Gretzy",
     quote: '"You miss 100% of the shots you don\'t take."',
   },
   {
-    author: "--Frank Sinatra",
+    author: "― Frank Sinatra",
     quote: '"The best revenge is massive success."',
   },
   {
