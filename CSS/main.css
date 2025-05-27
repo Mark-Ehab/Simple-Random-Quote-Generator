@@ -1,0 +1,34 @@
+/*-------------------------------------------------- 
+# Custom Styles File for Random Quote Genrator App #
+---------------------------------------------------*/
+
+/*---------------------------------------- 
+# Main Section Styles  
+------------------------------------------*/
+#home h1 {
+  color: black;
+  margin-block: 3.35rem;
+  font-size: 5rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  line-height: 6.0833rem;
+}
+#home p {
+  margin-block: 2.1875rem;
+  font-size: 2.1875rem;
+  line-height: 2.5rem;
+  font-family: "Times New Roman", Times, serif;
+}
+#home button {
+  min-width: 15.625rem;
+  width: 15.625rem;
+  min-height: 5rem;
+  height: 5rem;
+  color: white;
+  background-color: blue;
+  font-size: 0.8333rem;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: 0.3s background-color;
+}
+#home button:hover {
+  background-color: green;
+}
