@@ -61,10 +61,10 @@ function randomQuoteGenerator() {
   if (firstCall) {
     document.getElementById(
       "home"
-    ).innerHTML += `<p id="quote">${qoutes[tempRandomGeneratedNum].quote}</p>`;
+    ).children[0].innerHTML += `<p id="quote">${qoutes[tempRandomGeneratedNum].quote}</p>`;
     document.getElementById(
       "home"
-    ).innerHTML += `<p id="author">${qoutes[tempRandomGeneratedNum].author}</p>`;
+    ).children[0].innerHTML += `<p id="author">${qoutes[tempRandomGeneratedNum].author}</p>`;
 
     /* Reset first call flag */
     firstCall = 0;
